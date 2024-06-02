@@ -34,7 +34,7 @@ UTIL = ./$(SCRIPTS)/util
 all: prepEnv buildDev
 
 prepEnv:
-	@echo "Preparar o ambiente de desenvolvimento!!" \
+	@echo -e "Preparar o ambiente de \n desenvolvimento!!" 
 	@echo "Baixar os arquivos BIN necessários: Mainframe TK4!!"
 
 buildDev:
