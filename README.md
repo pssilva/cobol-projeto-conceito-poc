@@ -125,15 +125,6 @@ A maneira mais fácil de implantar seu aplicativo Angular é usar a [Plataforma 
 
 Confira [documentação de implantação do Heroku](https://devcenter.heroku.com/start) para mais detalhes.
 
----
-
-## Template HTML AdminLTE
-
-<a href="https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard"><img src="docs/imgs/tela-adminlte.png" alt="Tela do AdminLTE" title="Tela do AdminLTE" style="width:475px; max-width: 100%;"/></a>
-
-
----
-
 ## 🔩 Débitos Técnicos
 
 Aqui temos uma lista do que idenficamos com status de pendente:
