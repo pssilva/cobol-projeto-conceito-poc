@@ -46,3 +46,8 @@ nbdist/
 
 # Generated files
 .idea/**/contentModel.xml
+
+# Executáveis BIN
+scripts/bin/tk4-_v1.00.zip
+scripts/bin/TK4*
+scripts/bin/tk4*

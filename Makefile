@@ -31,20 +31,17 @@ UTIL = ./$(SCRIPTS)/util
 #
 ##-------------------------------------------------------------
 
-all: passoUm passoDois passoTres
+all: prepEnv buildDev
 
-passoUm:
-	@echo "Passo 01 do processo!!" \
-	@echo "Baixar os arquivos BIN necessários!!"
+prepEnv:
+	@echo "Preparar o ambiente de desenvolvimento!!" \
+	@echo "Baixar os arquivos BIN necessários: Mainframe TK4!!"
 
-passoDois:
-	@echo "Passo 02 do processo!!"
+buildDev:
+	@echo "Prepara a construção para o ambinete DEV!!"
 
 passoTres:
 	@echo "Passo 03 do processo!!"
-
-$(BIN)/%: $(APPS)/%.c
-	gcc $< $(OBJ)/*.o -I $(INCLUDE) -o $@
 
 run:
 	@echo "Executar o projeto!"
