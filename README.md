@@ -110,21 +110,6 @@ x3270
 
 ```
 
-## Saiba Mais
-
-Para saber mais sobre Angular Framework, dê uma olhada nos seguintes recursos:
-
-- [Angular Framework](https://angular.io/) - aprenda sobre os recursos e API do Angular Framework.
-- [Learn Angular tutorial](https://angular.dev/tutorials/learn-angular) - um tutorial interativo do Angular Framework.
-
-Você pode conferir [o repositório Angular Framework](https://github.com/angular/angular) - seus comentários e contribuições são bem-vindos!
-
-## Implantar no Heroku
-
-A maneira mais fácil de implantar seu aplicativo Angular é usar a [Plataforma do Heroku](https://devcenter.heroku.com/start) dos criadores do [Os Doze Fatores (The Twelve-Factor App)](https://12factor.net/pt_br/).
-
-Confira [documentação de implantação do Heroku](https://devcenter.heroku.com/start) para mais detalhes.
-
 ## 🔩 Débitos Técnicos
 
 Aqui temos uma lista do que idenficamos com status de pendente:
