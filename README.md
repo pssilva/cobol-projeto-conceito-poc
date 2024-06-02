@@ -241,6 +241,14 @@ Seque abaixo as referências bibliográficas usadas no presente projeto:
 
 <p align="justify">
 
+COUGHLAN, Michael Beginning COBOL for Programmers. 1 Ed. . Cidade da publicação: Editora, Copyright © 2014 by Michael Coughlan. (Nome da série e/ou coleção, ISBN-13 (electronic): 978-1-4302-6254-1). Disponível em: < <a href="https://a.co/d/aY59zta"> https://a.co/d/aY59zta </a> >. Acesso em: 1 jun. 2024.
+
+</p>
+
+---
+
+<p align="justify">
+
 TAULLI, Tom. Modern Mainframe Development: COBOL, Databases, and Next-Generation Approaches. Ed. 1. 1005 Gravenstein Highway North, Sebastopol, CA 95472: Published by O’Reilly Media, Inc., Copyright © 2022 Tom Taulli. All rights reserved.. 978-1-492-09573-6. Disponível em: < <a href="https://a.co/d/iWWwZKi"> https://a.co/d/iWWwZKi </a>  > . Acesso em: 1 jun. 2024.
 
 </p>
@@ -249,12 +257,20 @@ TAULLI, Tom. Modern Mainframe Development: COBOL, Databases, and Next-Generation
 
 <p align="justify">
 
-AULAS AO VIVO Direção: Playlist com 93 vídeos contendo lives ao vivo com assuntos relacionados à linguagem COBOL. Produção: Canal do youbue: @AprendaCOBOL. Realização: Instrutor André Consta do Canal do youbue: @AprendaCOBOL. Roteiro: Instrutor André Consta do Canal do youbue: @AprendaCOBOL. Fotografia: N/A. Intérpretes: N/A; Local: Instrutor André Consta do Canal do youbue: @AprendaCOBOL, 19 de jan. de 2021 (há 3 anos) e mais recente 15 de jan. de 2024.  Indicação do suporte físico e duração entre parênteses, demais características (formato stream, som, cor, legenda, tradução, stream de vídeo). Disponível em: < <a href="https://www.youtube.com/playlist?list=PLhXxywZAo3j2wcpbO-RrIa-7g7o1verKV">https://www.youtube.com/playlist?list=PLhXxywZAo3j2wcpbO-RrIa-7g7o1verKV</a> >. Acesso em: 31 mai. 2024.
+AULAS AO VIVO Direção: Playlist com 93 vídeos contendo lives ao vivo com assuntos relacionados à linguagem COBOL. Produção: Canal do youbue: @AprendaCOBOL. Realização: Instrutor André Consta do Canal do youbue: @AprendaCOBOL. Roteiro: Instrutor André Consta do Canal do youbue: @AprendaCOBOL. Fotografia: N/A. Intérpretes: N/A; Local: Instrutor André Consta do Canal do youbue: @AprendaCOBOL, 19 de jan. de 2021 (há 3 anos) e mais recente 15 de jan. de 2024.  Indicação do suporte físico e duração entre parênteses, demais características (formato stream, som, cor, legenda, tradução, stream de vídeo). Disponível em: < <a href="https://www.youtube.com/playlist?list=PLhXxywZAo3j2wcpbO-RrIa-7g7o1verKV"> https://www.youtube.com/playlist?list=PLhXxywZAo3j2wcpbO-RrIa-7g7o1verKV</a> >. Acesso em: 31 mai. 2024.
 
 </p>
 
+<p align="justify">
+
 NOTA: para deixar evidenciado, segue a [indexação da playlist](./docs/indexacoes/README.md) (se trata de um questionário com o mapeamento do link de um tema / assunto no momemento onde se explica um conceito ou uma técnica de codificação).
+
+</p>
 
 ---
 
-MAINFRAME Direção: Playlist de 09 vídeos apresentando sobre a linguagem COBOL. Produção: Prof. Edival Ponciano de Carvalho Filho do canal do youbute: @edivalponcianodecarvalhofi2473. Realização: Prof. Edival Ponciano de Carvalho Filho do canal do youbute: @edivalponcianodecarvalhofi2473. Roteiro: Prof. Edival Ponciano de Carvalho Filho do canal do youbute: @edivalponcianodecarvalhofi2473. Fotografia: N/A. Intérpretes: N/A; Local: Prof. Edival Ponciano de Carvalho Filho do canal do youbute: @edivalponcianodecarvalhofi2473, 2 de jan. de 2018 (há 6 anos).  Indicação do suporte físico e duração entre parênteses, demais características (straem de vídeo do youtube, som, cor, legenda, tradução, streams de vídeo). Disponível em: < https://www.youtube.com/playlist?list=PLn4N72UfG4sG2QyrTzdqDc5KzUTexTNEQ >.  Acesso em: 31 mai. 2024
+<p align="justify"> 
+
+MAINFRAME Direção: Playlist de 09 vídeos apresentando sobre a linguagem COBOL. Produção: Prof. Edival Ponciano de Carvalho Filho do canal do youbute: @edivalponcianodecarvalhofi2473. Realização: Prof. Edival Ponciano de Carvalho Filho do canal do youbute: @edivalponcianodecarvalhofi2473. Roteiro: Prof. Edival Ponciano de Carvalho Filho do canal do youbute: @edivalponcianodecarvalhofi2473. Fotografia: N/A. Intérpretes: N/A; Local: Prof. Edival Ponciano de Carvalho Filho do canal do youbute: @edivalponcianodecarvalhofi2473, 2 de jan. de 2018 (há 6 anos).  Indicação do suporte físico e duração entre parênteses, demais características (straem de vídeo do youtube, som, cor, legenda, tradução, streams de vídeo). Disponível em: < <a href="https://www.youtube.com/playlist?list=PLn4N72UfG4sG2QyrTzdqDc5KzUTexTNEQ"> https://www.youtube.com/playlist?list=PLn4N72UfG4sG2QyrTzdqDc5KzUTexTNEQ </a> >.  Acesso em: 31 mai. 2024
+
+</p>
