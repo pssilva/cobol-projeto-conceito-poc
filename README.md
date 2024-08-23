@@ -112,7 +112,7 @@ x3270
 
 ## 🔩 Débitos Técnicos
 
-Aqui temos uma lista do que idenficamos com status de pendente:
+Aqui temos uma lista do que identificamos com status de pendente:
 
 ### Funcionalidades Aplicação
 
@@ -153,7 +153,7 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 
 ## 📦 Desenvolvimento
 
-- [ ] Inplementar o gernciador de tarefas Gruntfile.js
+- [ ] Implementar o gerenciador de tarefas Gruntfile.js
 
 ### Mentalidade PDCA
 
@@ -175,7 +175,7 @@ _**NOTA**_: Não se trata de ficar ditando regras no trabalho da equipe, mas sim
 
 ## 🛠️ Construído com
 
-Seque aqui as ferramentas utilizadas na construção presente projeto:
+Segue aqui as ferramentas utilizadas na construção presente projeto:
 
 * [MVS 3.8j TK4-](https://wotho.pebble-beach.ch/tk4-/)
 * [Zowe Explorer VS Code](https://github.com/zowe/zowe-explorer-vscode)

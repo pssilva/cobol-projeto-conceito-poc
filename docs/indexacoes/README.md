@@ -23,7 +23,7 @@ Até o momento, aplicáveis ao presente projeto, temos as seguintes indexações
 
 ### Mentalidade PDCA
 
-Tendo em mente que sempre buscamos melhorar o protocolo de trabalho operacional do dia a dia usando empirismo (colocar realmente em prática os conheicmentos abstratos):
+Tendo em mente que sempre buscamos melhorar o protocolo de trabalho operacional do dia a dia usando empirismo (colocar realmente em prática os conhecimentos abstratos):
 
 --- 
 
